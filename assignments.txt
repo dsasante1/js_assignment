@@ -30,6 +30,10 @@
 
 
 
+
+
+
+
 // Exercise 2: Calculate the total price of a shopping cart
 
 // Step 1: Define variables for the initial price and quantity of an item
@@ -94,6 +98,15 @@
 
 
 // Step 12: Display the total amount using string interpolation and the toLocaleString() method
+
+
+
+
+
+
+
+
+
 
 
 
