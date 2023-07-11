@@ -69,7 +69,7 @@ let totalAmount = compoundInterest + principalAmount
 
 // Step 12: Display the total amount using string interpolation and the toLocaleString() method
 
-console.log(`total amount = ${totalAmount.toLocaleString()}`)
+console.log(`total amount = ${totalAmount.toLocaleString("en-US", {style:"currency", currency:"USD"})}`)
 
 
 
