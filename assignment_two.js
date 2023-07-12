@@ -22,7 +22,7 @@ initial quantity of items = ${itemQuantity}
 
 // Step 3: Apply a discount of 20% using the decrement operator
 
-let discount = 20 /100
+let discount = 20 / 100
 
 let updatePrice = initialPrice -= discount
 
